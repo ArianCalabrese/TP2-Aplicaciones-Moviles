@@ -1,0 +1,18 @@
+Audi,A4,1994,245,audi_a4
+Audi,Q8,2018,340,audi_q8
+BMW,X6,2008,530,bmw_x6
+Koenigsegg,Agera,2011,1140,koenigsegg_agera
+Porsche,911,1964,450,porsche_911
+Tesla,Model S,2012,345,tesla_models
+Toyota,Corolla,2020,170,toyota_corolla
+Toyota,Camry,2014,180,toyota_camry
+Toyota,Prius,2019,122,toyota_prius
+Mini,Cooper,2010,122,mini_cooper
+Mini,Clubman,2010,184,mini_clubman
+Mini,Countryman,2011,184,mini_countryman
+Honda,Civic,2019,158,honda_civic
+Honda,Accord,2019,250,honda_accord
+Honda,CRV,2010,150,honda_crv
+Ferrari,LaFerrari,2013,963,ferrari_laferrari
+Lamborghini,Aventador,2012,720,lamborghini_aventador
+McLaren,Senna,2017,800,mclaren_senna
